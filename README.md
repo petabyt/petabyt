@@ -1,5 +1,5 @@
 ## Hello World
-Active Projects:
+Active Projects:  
 [Corescript](https://github.com/corescript-lang)  
 [Heb12](https://heb12.com/)  
 [LibreEdit](https://github.com/LibreEdit)  
@@ -8,3 +8,5 @@ Active Projects:
 You can find my site here: http://petabyte.heb12.com/  
 And my mostly inactive blog here: http://petabyte.heb12.com/blog
 
+Here is some nice info on licensing:  
+https://github.com/pufflegamerz/license
