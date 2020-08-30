@@ -5,8 +5,36 @@ Active Projects:
 [LibreEdit](https://github.com/LibreEdit)  
 [ScratchFormat](https://github.com/ScratchFormat)  
 
-You can find my site here: http://petabyte.heb12.com/  
-And my mostly inactive blog here: http://petabyte.heb12.com/blog
+You can find my webpage here: http://petabyte.heb12.com/  
+And my mostly inactive blog here: http://petabyte.heb12.com/blog  
+I also put code on https://code.heb12.com/p and in  
+https://code.heb12.com/heb12
 
-Here is some nice info on licensing:  
+Here is some nice info on my licensing:  
 https://github.com/pufflegamerz/license
+
+## Languages
+The languages I use the most in order:   
+```
+C
+JavaScript
+HTML + CSS (not very good at it)
+PHP
+Go
+Java
+x86 Assembly (NASM)
+Corescript (language I made, does this count?)
+Python
+QuickBasic
+C#
+Visual Basic
+I have only tinkered with some languages such as:  
+C++
+Windows Batch/Unix shell
+ZigLang
+```
+
+Other than programming, I also sometimes repair/refurbish computers.  
+I rarely use a soldering iron, just diagnosing problems and wires.  
+
+I also run servers locally, see http://petabyte.heb12.com/server.html
