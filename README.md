@@ -7,7 +7,7 @@ Active Projects:
 
 You can find my webpage here: http://petabyte.heb12.com/  
 And my mostly inactive blog here: http://petabyte.heb12.com/blog  
-I also put code on https://code.heb12.com/p and in  
+I also put code on https://code.heb12.com/p, in  
 https://code.heb12.com/heb12
 
 Here is some nice info on my licensing:  
@@ -33,6 +33,8 @@ C++
 Windows Batch/Unix shell
 ZigLang
 ```
+I typically am not the person to try out many different programming languages  
+for fun, but I just use the language that works best for me.  
 
 Other than programming, I also sometimes repair/refurbish computers.  
 I rarely use a soldering iron, just diagnosing problems and wires.  
