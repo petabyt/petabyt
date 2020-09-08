@@ -1,10 +1,4 @@
-## Hello World
-Active Projects:  
-[Corescript](https://github.com/corescript-lang)  
-[Heb12](https://heb12.com/)  
-[LibreEdit](https://github.com/LibreEdit)  
-[ScratchFormat](https://github.com/ScratchFormat)  
-
+## `print Hello World`
 You can find my webpage here: http://petabyte.heb12.com/  
 And my mostly inactive blog here: http://petabyte.heb12.com/blog  
 I also put code on https://code.heb12.com/p, in  
