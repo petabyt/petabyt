@@ -1,8 +1,8 @@
 ## `print Hello World`
-You can find my webpage here: http://petabyte.heb12.com/  
-And my mostly inactive blog here: http://petabyte.heb12.com/blog  
-I also put code on https://code.heb12.com/p, in  
-https://code.heb12.com/heb12
+Personal webpage: http://petabyte.heb12.com/  
+Mostly inactive blog: http://petabyte.heb12.com/blog  
+Alternative code site: https://code.heb12.com/p
+Scratch (inactive): scratch.mit.edu/users/pufflegamerz/
 
 Here is some nice info on my licensing:  
 https://github.com/pufflegamerz/license
@@ -34,3 +34,8 @@ Other than programming, I also sometimes repair/refurbish computers.
 I rarely use a soldering iron, just diagnosing problems and wires.  
 
 I also run servers locally, see http://petabyte.heb12.com/server.html
+
+## Why Free Software
+Because it helps people MUCH more than proprietary software. My goal is to help people,  
+to make the world a better place than how I found it. And I believe I can help people more  
+with free software.
