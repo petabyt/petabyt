@@ -19,16 +19,15 @@ Java
 x86 Assembly (NASM)
 Corescript (language I made, does this count?)
 Python
+**I have only tinkered with some languages such as:**  
+Visual Basic
 QuickBasic
 C#
-Visual Basic
-I have only tinkered with some languages such as:  
 C++
 Windows Batch/Unix shell
-ZigLang
 ```
-I typically am not the person to try out many different programming languages  
-for fun, but I just use the language that works best for me.  
+I do not really enjoy learning programming languages (although I will when needed), let alone replacing them.
+I spend my time actually writing code instead.
 
 Other than programming, I also sometimes repair/refurbish computers.  
 I rarely use a soldering iron, just diagnosing problems and wires.  
