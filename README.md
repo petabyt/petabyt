@@ -35,6 +35,6 @@ I rarely use a soldering iron, just diagnosing problems and wires.
 I also run servers locally, see http://petabyte.heb12.com/server.html
 
 ## Why Free Software
-Because it helps people MUCH more than proprietary software. My goal is to help people,  
-to make the world a better place than how I found it. And I believe I can help people more  
+Because it helps people *much* more than proprietary software. My goal is to help people,  
+to make the world a better place than how I found it. And I believe It is best to help people   
 with free software.
