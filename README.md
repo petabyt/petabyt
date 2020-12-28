@@ -1,8 +1,10 @@
 ## `print Hello World`
 Personal webpage: http://petabyte.heb12.com/  
-Mostly inactive blog: http://petabyte.heb12.com/blog  
+Blog: http://petabyte.heb12.com/blog  
 Alternative code site: https://code.heb12.com/p
-Scratch (inactive): scratch.mit.edu/users/pufflegamerz/
+MIT Scratch: scratch.mit.edu/users/pufflegamerz/
+Gamejolt: https://gamejolt.com/@petabytes
+Youtube: https://www.youtube.com/c/PetabyteStudios/
 
 Here is some nice info on my licensing:  
 https://github.com/pufflegamerz/license
@@ -26,8 +28,8 @@ C#
 C++
 Windows Batch/Unix shell
 ```
-I do not really enjoy learning programming languages (although I will when needed), let alone replacing them.
-I spend my time actually writing code instead.
+I do not really enjoy learning programming languages (although I will when needed).
+I spend most of my time actually writing code.
 
 Other than programming, I also sometimes repair/refurbish computers.  
 I rarely use a soldering iron, just diagnosing problems and wires.  
