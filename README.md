@@ -1,10 +1,10 @@
 ## `print Hello World`
 Personal webpage: http://petabyte.heb12.com/  
 Blog: http://petabyte.heb12.com/blog  
-Alternative code site: https://code.heb12.com/p
-MIT Scratch: scratch.mit.edu/users/pufflegamerz/
-Gamejolt: https://gamejolt.com/@petabytes
-Youtube: https://www.youtube.com/c/PetabyteStudios/
+Alternative code site: https://code.heb12.com/p  
+MIT Scratch: scratch.mit.edu/users/pufflegamerz/  
+Gamejolt: https://gamejolt.com/@petabytes  
+Youtube: https://www.youtube.com/c/PetabyteStudios/  
 
 Here is some nice info on my licensing:  
 https://github.com/pufflegamerz/license
