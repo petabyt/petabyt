@@ -2,7 +2,7 @@
 Personal webpage: http://petabyte.heb12.com/  
 Blog: http://petabyte.heb12.com/blog  
 Alternative code site: https://code.heb12.com/p  
-MIT Scratch: scratch.mit.edu/users/pufflegamerz/  
+MIT Scratch: https://scratch.mit.edu/users/pufflegamerz/  
 Gamejolt: https://gamejolt.com/@petabytes  
 Youtube: https://www.youtube.com/c/PetabyteStudios/  
 
