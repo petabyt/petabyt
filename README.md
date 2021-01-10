@@ -5,31 +5,12 @@ Alternative code site: https://code.heb12.com/p
 MIT Scratch: https://scratch.mit.edu/users/pufflegamerz/  
 Gamejolt: https://gamejolt.com/@petabytes  
 Youtube: https://www.youtube.com/c/PetabyteStudios/  
-
-Here is some nice info on my licensing:  
-https://github.com/pufflegamerz/license
+  
+Licensing: https://github.com/pufflegamerz/license
 
 ## Languages
-The languages I use the most in order:   
-```
-C
-JavaScript
-HTML + CSS (not very good at it)
-PHP
-Go
-Java
-x86 Assembly (NASM)
-Corescript (language I made, does this count?)
-Python
-**I have only tinkered with some languages such as:**  
-Visual Basic
-QuickBasic
-C#
-C++
-Windows Batch/Unix shell
-```
-I do not really enjoy learning programming languages (although I will when needed).
-I spend most of my time actually writing code.
+I mostly often use C/ASM, JS, and HTML/CSS. Sometimes I will write in  
+PHP, Golang, Java, and Python. I have only tinkered with Visual Basic, C#, C++.
 
 Other than programming, I also sometimes repair/refurbish computers.  
 I rarely use a soldering iron, just diagnosing problems and wires.  
