@@ -6,7 +6,7 @@ MIT Scratch: https://scratch.mit.edu/users/pufflegamerz/
 Gamejolt: https://gamejolt.com/@petabytes  
 Youtube: https://www.youtube.com/c/PetabyteStudios/  
   
-Licensing: https://github.com/pufflegamerz/license
+Licensing: https://github.com/petabyt/license
 
 ## Languages
 I mostly often use C/ASM, JS, and HTML/CSS. Sometimes I will write in  
