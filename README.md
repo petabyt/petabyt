@@ -9,15 +9,21 @@ Youtube: https://www.youtube.com/c/PetabyteStudios/
 Licensing: https://github.com/petabyt/license
 
 ## Languages
-I mostly often use C/ASM, JS, and HTML/CSS. Sometimes I will write in  
-PHP, Golang, Java, and Python. I have only tinkered with Visual Basic, C#, C++.
+I tend to use C the most, but I also write in JS, HTML/CSS, PHP,  
+Golang, Java, And Python. I have only tinkered with Visual Basic, C#, C++.  
 
-Other than programming, I also sometimes repair/refurbish computers.  
+I also work a with assembler often. I use NASM for x86 and GNU as for ARM.  
+
+Other than programming, I sometimes repair/refurbish computers.  
 I rarely use a soldering iron, just diagnosing problems and wires.  
 
-I also run servers locally, see http://petabyte.heb12.com/server.html
+I also do amature astrophography. See https://petabyte.heb12.com/astro/
 
 ## Why Free Software
 I create free software not because I think proprietary software is evil, but because I think    
 free software is better. My goal is to help people,  to make the world a better place than how I  
 found it. And I believe I can help people best with free software.
+
+## Other
+http://petabyte.heb12.com/
+http://petabyte.heb12.com/server.html
