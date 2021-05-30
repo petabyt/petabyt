@@ -1,7 +1,6 @@
 ## `print Hello World`
-Personal webpage: http://petabyte.heb12.com/  
+Personal site: http://petabyte.heb12.com/  
 Blog: http://petabyte.heb12.com/blog  
-Alternative code site: https://code.heb12.com/p  
 MIT Scratch: https://scratch.mit.edu/users/pufflegamerz/  
 Gamejolt: https://gamejolt.com/@petabytes  
 Youtube: https://www.youtube.com/c/PetabyteStudios/  
@@ -10,20 +9,16 @@ Licensing: https://github.com/petabyt/license
 
 ## Languages
 I tend to use C the most, but I also write in JS, HTML/CSS, PHP,  
-Golang, Java, And Python. I have only tinkered with Visual Basic, C#, C++.  
+Go, and Python.
 
-I also work a with assembler often. I use NASM for x86 and GNU as for ARM.  
+I also work with assembler often. I use NASM for x86 and GNU as for ARM.  
 
 Other than programming, I sometimes repair/refurbish computers.  
-I rarely use a soldering iron, just diagnosing problems and wires.  
+I rarely use a soldering iron, just diagnosing problems and wire stuff.  
 
-I also do amature astrophography. See https://petabyte.heb12.com/astro/
+I am an amature astronomer. See https://petabyte.heb12.com/astro/
 
 ## Why Free Software
 I create free software not because I think proprietary software is evil, but because I think    
 free software is better. My goal is to help people,  to make the world a better place than how I  
 found it. And I believe I can help people best with free software.
-
-## Other
-http://petabyte.heb12.com/
-http://petabyte.heb12.com/server.html
