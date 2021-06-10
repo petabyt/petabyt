@@ -19,6 +19,8 @@ I rarely use a soldering iron, just diagnosing problems and wire stuff.
 I am an amature astronomer. See https://petabyte.heb12.com/astro/
 
 ## Why Free Software
-I create free software not because I think proprietary software is evil, but because I think    
-free software is better. My goal is to help people,  to make the world a better place than how I  
-found it. And I believe I can help people best with free software.
+I create free software not because I think proprietary software is evil, but because I think  
+free software is better. My goal is to help people, to make the world a better place than how I  
+found it. And I believe I can help people best with free software.  
+
+What is free software? https://www.gnu.org/philosophy/free-sw.en.html  
