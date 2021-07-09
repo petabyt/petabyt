@@ -7,16 +7,15 @@ Youtube: https://www.youtube.com/c/PetabyteStudios/
   
 Licensing: https://github.com/petabyt/license
 
-## Languages
+I am an amature astronomer. See https://petabyte.heb12.com/astro/
+
+## Programming
 I tend to use C the most, but I also write in JS, HTML/CSS, PHP,  
 Go, and Python.
 
 I also work with assembler often. I use NASM for x86 and GNU as for ARM.  
 
 Other than programming, I sometimes repair/refurbish computers.  
-I rarely use a soldering iron, just diagnosing problems and wire stuff.  
-
-I am an amature astronomer. See https://petabyte.heb12.com/astro/
 
 ## Why Free Software
 I create free software not because I think proprietary software is evil, but because I think  
