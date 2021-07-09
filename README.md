@@ -10,8 +10,8 @@ Licensing: https://github.com/petabyt/license
 I am an amature astronomer. See https://petabyte.heb12.com/astro/
 
 ## Programming
-I tend to use C the most, but I also write in JS, HTML/CSS, PHP,  
-Go, and Python.
+I tend to use C the most, but I also write in JS, HTML/CSS, Go,  
+Python, PHP, and a few others.
 
 I also work with assembler often. I use NASM for x86 and GNU as for ARM.  
 
