@@ -4,10 +4,8 @@ Blog: http://petabyte.heb12.com/blog
 MIT Scratch: https://scratch.mit.edu/users/pufflegamerz/  
 Gamejolt: https://gamejolt.com/@petabytes  
 Youtube: https://www.youtube.com/c/PetabyteStudios/  
-  
-Licensing: https://github.com/petabyt/license
-
-I am an amature astronomer. See https://petabyte.heb12.com/astro/
+Licensing: https://github.com/petabyt/license  
+I am an amature astronomer. See https://petabyte.heb12.com/astro/  
 
 ## Programming
 I tend to use C the most, but I also write in JS, HTML/CSS, Go,  
