@@ -17,5 +17,5 @@ Other than programming, I sometimes repair/refurbish computers.
 
 ## Why Free Software
 I create free software not because I think proprietary software is evil, but because I think  
-free software is better. My goal is to help people, to make the world a better place than how I  
-found it. And I believe I can help people best with free software.  
+free software is better. My goal is to help people, to make the world a better place.  
+And I believe I can help people best with free and open-source software.  
