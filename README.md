@@ -1,5 +1,5 @@
 ## `print Hello World`
-Personal site: http://petabyte.petabyt.dev/  
+Personal site: http://petabyt.dev/  
 Blog: http://petabyt.dev/blog  
 MIT Scratch: https://scratch.mit.edu/users/pufflegamerz/  
 Gamejolt: https://gamejolt.com/@petabytes  
