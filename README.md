@@ -1,11 +1,10 @@
 ## `print Hello World`
 Personal site: http://petabyt.dev/  
 Blog: http://petabyt.dev/blog  
-MIT Scratch: https://scratch.mit.edu/users/pufflegamerz/  
-Gamejolt: https://gamejolt.com/@petabytes  
 Youtube: https://www.youtube.com/c/PetabyteStudios/  
-Licensing: https://github.com/petabyt/license  
-I am an amateur astronomer. See https://petabyt.dev/astro/  
+Astronomy: https://petabyt.dev/astro/  
+
+Support my work: https://en.liberapay.com/petabyte/  
 
 ## Programming
 I tend to use C the most, but I also write in JS, HTML/CSS, Go,  
