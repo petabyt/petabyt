@@ -15,6 +15,6 @@ I also work with assembly often. I use NASM for x86 and GNU as for ARM.
 Other than programming, I sometimes repair/refurbish computers.  
 
 ## Why Free Software
-I create free software not because I think proprietary software is evil, but because I think  
+I create free software not because I think closed-source software is evil, but because I think  
 free software is better. My goal is to help people, to make the world a better place.  
-And I believe I can help people best with free and open-source software.  
+And I believe I can do that best with free and open-source software.  
